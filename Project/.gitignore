@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+/.idea/
+/.ipynb_checkpoints/
+/.vscode/
+/bin/
+/Data/
+/etc/
+/Lab6_JupyterNotebook/
+/lib/
+/share/
